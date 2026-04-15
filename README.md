@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" width="70%" alt="Coding Banner" />
+  <img src="banner.gif" width="90%" alt="Coding Banner" />
 </div>
 
 <br />
@@ -19,27 +19,48 @@
       </p>
       <h3>🛠️ Skills & Tools</h3>
       <p>
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <p>
+       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
         <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
     </td>
-    <td width="35%" valign="top" align="right">
-      <img src="gif.gif" width="250px" style="border-radius: 10px;" alt="Coding Illustration" />
+  <td width="35%" valign="middle" align="center" style="padding: 10px;">
+      <img src="gif.gif" alt="Coding Illustration" style="width: 100%; height: auto; border-radius: 15px; display: block;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
+### 📚 My Learning Journey
+* ☕ Deepening my expertise in **Java** and back-end logic.
+* 🧠 Exploring **Artificial Intelligence (AI)** and its practical applications.
+* 🗄️ Learning **Database Systems (DBS)** and data management.
+* 🚀 Pushing code frequently as I build my foundation!
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/maham-khursheed/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mahamkhursheed67@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=im-mahamkhursheed&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-mahamkhursheed&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-mahamkhursheed&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <br />
+ 
 </div>
+
