@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.gif" width="100%" alt="Coding Banner" />
+  <img src="banner.gif" width="70%" alt="Coding Banner" />
 </div>
 
 <br />
@@ -40,6 +40,6 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im-mahamkhursheed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-mahamkhursheed&theme=radical" alt="GitHub Streak" />
 </div>
